@@ -1,0 +1,24 @@
+
+.user-name {
+
+    color: burlywood;
+    border: 2px solid #acbcbf;
+    display: inline;
+    width: 600;
+}
+
+.user-password {
+
+    color: burlywood;
+    border: 2px solid #acbcbf;
+    display: inline;
+    width: 600;   
+}
+
+.button {
+
+    color: #81888a;
+    border-color: antiquewhite;
+    cursor: ew-resize;
+
+}
