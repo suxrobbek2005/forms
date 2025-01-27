@@ -1,0 +1,25 @@
+.inputs{
+
+    margin-bottom: 300px;
+    margin: 0 auto;
+    
+}
+
+.hunter{
+
+    margin-left:40%;
+    text-align: left;
+  
+}
+
+.send {
+    
+    color: burlywood;
+    cursor: pointer;
+    width: 200px;
+
+}
+
+.send :hover {
+    color: blanchedalmond;
+}
